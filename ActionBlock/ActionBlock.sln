@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionBlock", "ActionBlock\ActionBlock.csproj", "{DD803F18-AD64-4A8A-AE54-9D0AE2E7AB6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD803F18-AD64-4A8A-AE54-9D0AE2E7AB6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD803F18-AD64-4A8A-AE54-9D0AE2E7AB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD803F18-AD64-4A8A-AE54-9D0AE2E7AB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD803F18-AD64-4A8A-AE54-9D0AE2E7AB6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
